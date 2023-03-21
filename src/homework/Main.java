@@ -9,7 +9,7 @@ public class Main {
         System.out.println(registration("java_skypro.go", "D_1hWiKjjP_9", "D_1hWiKjjP_9"));
         System.out.println(registration("java_skypro.go", "D_1hWiKjjP_9", "D_1hWiKjjP_8"));
         System.out.println(registration("java_skypro.godfsdafsdfs", "D_1hWiKjjP_9", "D_1hWiKjjP_8"));
-        System.out.println(registration("java_skypro.go", "D_1hWiKjjP_9sdfsdfdsfds", "D_1hWiKjjP_8"));
+        System.out.println(registration("java_skypro.go", "D_1hWiKjjP_9sdfsdfdsfdsf", "D_1hWiKjjP_8"));
     }
 
     public static boolean registration(String login, String password, String confirmPassword) {
